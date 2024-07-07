@@ -6,3 +6,5 @@ root
 bootloader
 GSI（Android9~12）
 twrp
+
+https://vnrom.net/bypass/
