@@ -5,6 +5,4 @@ dump
 root
 bootloader
 GSI（Android9~12）
-twrp
-
-https://vnrom.net/bypass/
+twrp（Cannot build, does not meet specifications）
